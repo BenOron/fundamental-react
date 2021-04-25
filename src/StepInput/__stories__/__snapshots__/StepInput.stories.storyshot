@@ -372,6 +372,7 @@ Array [
             className="fd-input fd-input--no-number-spinner fd-step-input__input"
             id="readOnly"
             onChange={[Function]}
+            readOnly={true}
             type="text"
             value={0}
           />
